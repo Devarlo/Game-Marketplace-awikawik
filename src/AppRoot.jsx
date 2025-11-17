@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import HomePage from './pages/HomePage'
 import MarketplacePage from './pages/MarketplacePage'
 import ProfilePage from './pages/ProfilePage'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import PWABadge from './components/PWABadge'
 
 export default function AppRoot() {
